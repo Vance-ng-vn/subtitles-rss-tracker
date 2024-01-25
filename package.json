@@ -4,5 +4,23 @@
     "dotenv": "^16.4.1",
     "express": "^4.18.2",
     "got": "^11.8.6"
-  }
+  },
+  "name": "subtitles-rss-tracker",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vance-ng-vn/subtitles-rss-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vance-ng-vn/subtitles-rss-tracker/issues"
+  },
+  "homepage": "https://github.com/Vance-ng-vn/subtitles-rss-tracker#readme",
+  "description": ""
 }
